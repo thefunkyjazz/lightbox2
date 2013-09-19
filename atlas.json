@@ -1,0 +1,9 @@
+{
+  "title": "lightbox2",
+  "files": [
+    "README.markdown",
+    "Gemfile",
+    "index.html"
+  ],
+  "theme": "oreillymedia/atlas_trade_theme"
+}
